@@ -1,3 +1,5 @@
+alert("Try to win if you dare!");
+
 var origBoard;
 const huPlayer = 'O';
 const aiPlayer = 'X';
