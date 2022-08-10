@@ -1,5 +1,5 @@
 # tictactoe
-Unbeatable TicTacToe AI w/ Minimax Algorithm
+<h2>Unbeatable TicTacToe AI w/ Minimax Algorithm</h2>
 
 <p> 
 Minimax algorithm state value
